@@ -63,6 +63,6 @@ escreva("O nome do seu pai é: ", nomeDoPai);
 escreva("O nome da sua mãe é: ", nomeDaMae);
 escreva("Seu peso é: ", peso);
 escreva("Sua renda bruta é: ", rendaBruta);
-
+fimalgoritmo
 
 
