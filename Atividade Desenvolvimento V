@@ -29,7 +29,8 @@ Apesar de cumprir 2 dos requisitos, na condição "and" a expressão só pode se
 Apesar de não obedecer os dois primeiros operadores relacionais a ultima sentença é verdadeira e por isso está correto, porque
 diferente das questões acima, quando se em o "or" a tabela verdade só pode ser falsa enquanto todos os outros elementos o forem também F / F / V
 
-( F ) Jogador 4: (100 != 100) or (5 != 5) or not(Não == Não)
-Aqui é interessante, falei acima que apenas uma das expressões deveriam ser verdadeira no "or" e aqui temos a última expressão F / F / V
-Mas porque a sentença é falsa? Apenas porque temos o not, então é invertido o valor, ficando assim F / F / F
+( V ) Jogador 4: (101 != 100) or (4 != 5) or not(Não == Não)
+V / V / F
+Apesar da ultima sentença ser verdadeira, o not reverte o valor que era verdade em falso.
+
 
