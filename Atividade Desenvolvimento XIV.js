@@ -26,6 +26,5 @@ while (opcao != 5) {
   
  var num1 = parseInt(prompt("Digite o primeiro número: "));
  var num2 = parseInt(prompt("Digite o segundo número: "));
- var opcao = parseInt(prompt("Escolha qual operação:\n 1. SOMA\n 2. SUBTRAÇÃO\n 3. MULTIPLICAÇÃO\n 4. DIVISÃO\n 5. SAIR"));    
-
+ var opcao = parseInt(prompt("Escolha qual operação:\n 1. SOMA\n 2. SUBTRAÇÃO\n 3. MULTIPLICAÇÃO\n 4. DIVISÃO\n 5. SAIR"));
 }
