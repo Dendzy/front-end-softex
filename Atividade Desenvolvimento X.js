@@ -11,14 +11,14 @@ quantFaltas = parseInt(prompt("Digite a quantidade de faltas"));
 media = (nota1 + nota2) / 2;
 
 // Se a média do aluno for menor que sete, o sistema deve informar o nome do aluno e que ele está reprovado;
-
 if (media < 7) {
   alert(nomeAluno + " você foi reprovado!");
 } 
 // Se o aluno possuir mais de três faltas, o sistema deve informar o nome do aluno e que ele está reprovado;
 else if (quantFaltas > 3) {
   alert(nomeAluno + " você foi reprovado!")
-} // Se a média do aluno for maior ou igual a sete, o sistema deve informar o nome do aluno e que ele está aprovado.
+} 
+// Se a média do aluno for maior ou igual a sete, o sistema deve informar o nome do aluno e que ele está aprovado.
 else {
   alert(nomeAluno + " você foi aprovado!")
 }
