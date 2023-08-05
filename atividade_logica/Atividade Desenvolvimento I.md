@@ -1,13 +1,17 @@
-P: Aristóteles, Sócrates e Platão estavam disputando uma competição de perguntas nas disciplinas de Física, Matemática e Química. Cada um obteve um primeiro lugar, um segundo lugar e um terceiro lugar.
+<h1> Resolva o Seguinte Problema de Lógica: </h1>
+<p>Aristóteles, Sócrates e Platão estavam disputando uma competição de perguntas nas disciplinas de Física, Matemática e Química. Cada um obteve um primeiro lugar, um segundo lugar e um terceiro lugar.</p>
 
-Sabendo que: 
+  Sabendo que:
 - Aristóteles não ficou em primeiro em Química; 
 - Sócrates perdeu para Platão em Física; 
 - Platão acertou mais que Aristóteles em Matemática.
 
-Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
+<strong>Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.</strong>
 
-R:<p> Primeiramente o enunciado afirma que cada um ficou em primeiro, segundo e terceiro lugar em alguma das disciplinas.
+----
+<h2>Resolução: </h2>
+
+Primeiramente o enunciado afirma que cada um ficou em primeiro, segundo e terceiro lugar em alguma das disciplinas.<br>
 Ou seja, Se Aristóteles não ficou em primeiro lugar de Química, ele ficou em segundo ou terceiro lugar, sobrando apenas Física e Matemática para o primeiro lugar.<br>
 Sócrates perdeu para Platão em física, então ele só pode ser o segundo (Platão ficando em primeiro), ou terceiro (Platão ficando em segundo ou primeiro).<br>
 Sócrates então só poderá ser primeiro lugar em Matemática ou Química, já que ele está abaixo de Platão em Física.<br>
@@ -16,23 +20,27 @@ Essa implicação junto com a informação da primeira já nos dá o primeiro lu
 E como Sócrates perdeu para Platão em Física, Platão não pode estar abaixo de Sócrates, o que já nos dá a seguinte lista de Física.<br> 
 </p>
 
-<strong> Fisica </strong> - 1º Aristóteles, 2º Platão, 3º Sócrates.
-Química - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).
-Matemática - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).
+<strong> Fisica </strong> - 1º Aristóteles, 2º Platão, 3º Sócrates.<br>
+<strong> Química </strong> - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).<br>
+<strong> Matemática </strong> - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).
 
-Como Platão não pode mais estar em segundo e ele acerto mais que Aristóteles em Matemática, resta apenas o primeiro lugar em Matemática para Platão.
+Como Platão não pode mais estar em segundo e ele acerto mais que Aristóteles em Matemática, resta apenas o primeiro lugar em Matemática para Platão.<br>
 Segue a lista:
 
-Fisica - 1º Aristóteles, 2º Platão, 3º Sócrates.
-Química - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).
-Matemática - 1º Platão, 2º Sócrates, 3º Aristóteles.
+<strong> Fisica </strong>- 1º Aristóteles, 2º Platão, 3º Sócrates.<br>
+<strong> Química </strong>- 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).<br>
+<strong> Matemática </strong>- 1º Platão, 2º Sócrates, 3º Aristóteles.<br>
 
-Sócrates não pode ficar em terceiro, porque já ficou em Física, então ele vem pra segundo de Matemática e Aristóteles pra terceiro.
-Pela regra de que cada um ficou em primeiro, segundo e terceiro de cada disciplina, então para quimica basta apenas completar.
+Sócrates não pode ficar em terceiro, porque já ficou em Física, então ele vem pra segundo de Matemática e Aristóteles pra terceiro.<br>
+Pela regra de que cada um ficou em primeiro, segundo e terceiro de cada disciplina, então para quimica basta apenas completar.<br>
 
-Fisica - 1º Aristóteles, 2º Platão, 3º Sócrates.
-Química - 1º Sócrates, 2º Aristóteles, 3º Platão.
-Matemática - 1º Platão, 2º Sócrates, 3º Aristóteles.
+----
+
+<h3>Resultado:</h3>
+
+<strong> Fisica </strong> - 1º Aristóteles, 2º Platão, 3º Sócrates.<br>
+<strong> Química</strong> - 1º Sócrates, 2º Aristóteles, 3º Platão.<br>
+<strong> Matemática</strong> - 1º Platão, 2º Sócrates, 3º Aristóteles.<br>
 
 
 
