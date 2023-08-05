@@ -1,4 +1,4 @@
-<h1> Resolva o seguinte problema de lógica: </h1>
+<h1> Resolva o Seguinte Problema de Lógica: </h1>
 <p>
 Em uma sala de aula, há vinte e cinco alunos.<br>
 Entre eles, existem os grupos dos que gostam de Português (P) e os que gostam de Matemática (M).<br>
