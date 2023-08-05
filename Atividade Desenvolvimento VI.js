@@ -1,6 +1,5 @@
 var terrestre, pessoa, pesado, capacete;
 
-
 window.alert('Iremos agora fazer um jogo de perguntas e respostas!');
 window.alert('Escolha entre um trator, uma moto ou uma bicicleta.');
 window.alert('Iremos fazer perguntas e você deverá responder com sim ou nao!');
