@@ -16,7 +16,7 @@ Essa implicação junto com a informação da primeira já nos dá o primeiro lu
 E como Sócrates perdeu para Platão em Física, Platão não pode estar abaixo de Sócrates, o que já nos dá a seguinte lista de Física.<br> 
 </p>
 
-Fisica - 1º Aristóteles, 2º Platão, 3º Sócrates.
+<strong> Fisica </strong> - 1º Aristóteles, 2º Platão, 3º Sócrates.
 Química - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).
 Matemática - 1º (Não pode ser Aristóteles), 2º (Não pode ser Platão), 3º (Não pode ser Sócrates).
 
