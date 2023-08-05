@@ -10,7 +10,6 @@ console.log(idade);
 console.log(altura);
 console.log(maiorDeIdade);
 
-
 // Só queria verificar se os tipos das variáveis estavam corretos, não está se pedindo isso na questão, apenas os valores acima.
 
 console.log(typeof nome);
